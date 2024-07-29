@@ -22,6 +22,5 @@ https://api.openweathermap.org/data/2.5/
 
 ``` 
 ### Live on
-http://weatherapp.vachanus.host20.uk/
 http://127.0.0.1:5500/index.html
 
